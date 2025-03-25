@@ -13,7 +13,7 @@ Software packages: ROS Melodic, PX4, MAVRos, Gazebo9
 
 ## Commands to run 
 
-`
+```
 sudo apt update 
 sudo apt upgrade
 
@@ -95,5 +95,5 @@ cd /home/$USER/PX4_SITL/Firmware
 DONT_RUN=1 make px4_sitl_default gazebo
 
 
-`
+```
 
